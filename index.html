@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Translater</title>
+    <meta charset="utf-8"/>
+</head>
+<body>
+<div id="message"></div>
+<p>
+    Введите слово: <br/>
+    <input value="" id="value"/>
+</p>
+<p>
+    Выберите язык перевода: <br/>
+    <select id="language">
+        <option value="en">Английский</option>
+        <option value="ru">Русский</option>
+    </select>
+</p>
+<button onclick="send()">Перевести</button>
+
+
+<script>
+    async function send(){
+
+        // получаем введеное в поле имя и возраст
+        const value = document.getElementById("value").value;
+        const language = document.getElementById("language").value;
+
+        // отправляем запрос
+        const response = await fetch("/translate", {
+                method: "POST",
+                headers: { "Accept": "application/json", "Content-Type": "application/json" },
+                body: JSON.stringify({
+                    value: value,
+                    language: language
+                })
+            });
+            if (response.ok) {
+                const data = await response.json();
+                document.getElementById("message").textContent = data.message;
+            }
+            else
+                console.log(response);
+    }
+
+
+
+</script>
+</body>
+</html>

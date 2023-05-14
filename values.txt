@@ -1,0 +1,109 @@
+Welcome-Добро пожаловать
+Hello-Привет
+Goodbye-Досвидания
+event - событие
+example - пример
+fault tolerant - отказоустойчивость
+folder - папка
+access - доступ
+algorithm - алгоритм
+board - плата
+byte - байт
+class - класс
+cluster - кластер
+code - код
+computer - компьютер
+computing - вычисление
+customization - настройка
+database - база данных
+debugger - отладчик
+develop - разрабатывать
+developer - разработчик
+developing - разработка
+diskette - дискета
+distributed system - распределенная система
+function - функция
+hacker - хакер
+hard disk - жесткий диск
+leaf node - вершина дерева, не имеющая дочерних вершин
+Least Significant Bit - младший (наименее значащий) бит байта или машинного слова
+LED - светодиод
+ledger - программа финансового учёта
+line switching - коммутация каналов (линий связи)
+line terminator - завершитель строки
+links bar - панель ссылок
+high availability - высока доступность
+high performance - высокая производительность
+IDE - интегрированная среда разработки
+implementation - реализация
+import - импорт
+include - включение
+Integrated Development Environment - интегрированная среда разработки
+keyboard - клавиатура
+lamer - ламер
+LAN - локальная вычислительная сеть
+language - язык
+Last In First Out - последним пришёл,первым обслужен
+LCD - жидкокристаллический индикатор
+Linux Security Modules - интерфейс модулей безопасности
+Liquid-Crystal Display - жидкокристаллический индикатор
+list headed by size - список с указанием размера
+literal - литерал
+legal notes - юридическое заявление
+Lesser GPL - стандартная общественная лицензия ограниченного применения
+level - уровень
+LF Line Feed - перевод строки
+LGPL - стандартная общественная лицензия ограниченного применения
+library - библиотека (функций)
+life-cycle - жизненный цикл
+Light-Emitting Diode - светодиод
+lightweight - простая и компактная (программа)
+line disciplines - протокол линии
+live CD - загрузочный компакт-диск
+load - загружать
+load balancing - балансировка нагрузки
+Local Area Network - локальная вычислительная сеть
+localhost - локальное имя домена
+log file - журнал сообщений
+look and feel - внешний вид, стиль
+loop - цикл
+loop body - тело цикла
+network - сеть
+notebook - ноутбук
+object - объект
+package - пакет (библиотека)
+platform - платформа
+process - процесс
+processing - обработка
+programmer - программист
+programming - программирование
+loopback interface - сетевая заглушка
+low-level - низкоуровневый
+low-level language - язык низкого уровня
+LSB - младший (наименее значащий) бит байта или машинного слова
+LSM - интерфейс модулей безопасности
+mail - почта
+member - член класса (член-переменная класса)
+method - метод
+mouse - мышь
+programming language - язык программирования
+query language - язык запросов
+quorum - кворум
+random - случайный
+random number - случайное число
+replica - точная копия
+static variable - статическая переменная
+table - таблица
+variable - переменная
+virtual synchrony - виртуальная синхронность
+web-master - веб-мастер
+web-page - веб-страница
+web-site - веб-сайт
+reset - сброс
+schedule - расписание
+sign in - войти, зарегистрироваться
+signature - подпись
+software - программное обеспечение
+speech - речь
+staff - штат
+statement - оператор
